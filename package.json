@@ -1,5 +1,5 @@
 {
-  "name": "openseadragon",
+  "name": "@janelia/openseadragon",
   "version": "2.4.2",
   "description": "Provides a smooth, zoomable user interface for HTML/Javascript.",
   "keywords": [
